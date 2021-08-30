@@ -16,39 +16,3 @@ E:\ملفات هامة\مشاريع هامة\فيجوال ستوديو\visualStu
 E:\ملفات هامة\مشاريع هامة\فيجوال ستوديو\visualStudio\visualStudio\bin\Debug\frm_element.resx
 E:\ملفات هامة\مشاريع هامة\فيجوال ستوديو\visualStudio\visualStudio\bin\Debug\frm_element.cs
 E:\ملفات هامة\مشاريع هامة\فيجوال ستوديو\visualStudio\visualStudio\bin\Debug\frm_element.Designer.cs
-D:\OneDrive\important Projects\برنامج مساعد المبرمج\visualStudio\visualStudio\bin\Debug\frm_element.resx
-D:\OneDrive\important Projects\برنامج مساعد المبرمج\visualStudio\visualStudio\bin\Debug\frm_element.cs
-D:\OneDrive\important Projects\برنامج مساعد المبرمج\visualStudio\visualStudio\bin\Debug\frm_element.Designer.cs
-D:\OneDrive\important Projects\برنامج مساعد المبرمج\visualStudio\visualStudio\bin\Debug\visualStudio.exe.config
-D:\OneDrive\important Projects\برنامج مساعد المبرمج\visualStudio\visualStudio\bin\Debug\visualStudio.exe
-D:\OneDrive\important Projects\برنامج مساعد المبرمج\visualStudio\visualStudio\bin\Debug\visualStudio.pdb
-D:\OneDrive\important Projects\برنامج مساعد المبرمج\visualStudio\visualStudio\obj\Debug\visualStudio.csproj.AssemblyReference.cache
-D:\OneDrive\important Projects\برنامج مساعد المبرمج\visualStudio\visualStudio\obj\Debug\visualStudio.Form1.resources
-D:\OneDrive\important Projects\برنامج مساعد المبرمج\visualStudio\visualStudio\obj\Debug\visualStudio.frm_element.resources
-D:\OneDrive\important Projects\برنامج مساعد المبرمج\visualStudio\visualStudio\obj\Debug\visualStudio.frm_event.resources
-D:\OneDrive\important Projects\برنامج مساعد المبرمج\visualStudio\visualStudio\obj\Debug\visualStudio.frm_eventGroup.resources
-D:\OneDrive\important Projects\برنامج مساعد المبرمج\visualStudio\visualStudio\obj\Debug\visualStudio.frm_property.resources
-D:\OneDrive\important Projects\برنامج مساعد المبرمج\visualStudio\visualStudio\obj\Debug\visualStudio.frm_propertyGroup.resources
-D:\OneDrive\important Projects\برنامج مساعد المبرمج\visualStudio\visualStudio\obj\Debug\visualStudio.Properties.Resources.resources
-D:\OneDrive\important Projects\برنامج مساعد المبرمج\visualStudio\visualStudio\obj\Debug\visualStudio.csproj.GenerateResource.cache
-D:\OneDrive\important Projects\برنامج مساعد المبرمج\visualStudio\visualStudio\obj\Debug\visualStudio.csproj.CoreCompileInputs.cache
-D:\OneDrive\important Projects\برنامج مساعد المبرمج\visualStudio\visualStudio\obj\Debug\visualStudio.exe
-D:\OneDrive\important Projects\برنامج مساعد المبرمج\visualStudio\visualStudio\obj\Debug\visualStudio.pdb
-C:\Users\user\Desktop\GetHup\برنامج مساعد المبرمج\visualStudio\visualStudio\bin\Debug\frm_element.resx
-C:\Users\user\Desktop\GetHup\برنامج مساعد المبرمج\visualStudio\visualStudio\bin\Debug\frm_element.cs
-C:\Users\user\Desktop\GetHup\برنامج مساعد المبرمج\visualStudio\visualStudio\bin\Debug\frm_element.Designer.cs
-C:\Users\user\Desktop\GetHup\برنامج مساعد المبرمج\visualStudio\visualStudio\bin\Debug\visualStudio.exe.config
-C:\Users\user\Desktop\GetHup\برنامج مساعد المبرمج\visualStudio\visualStudio\bin\Debug\visualStudio.exe
-C:\Users\user\Desktop\GetHup\برنامج مساعد المبرمج\visualStudio\visualStudio\bin\Debug\visualStudio.pdb
-C:\Users\user\Desktop\GetHup\برنامج مساعد المبرمج\visualStudio\visualStudio\obj\Debug\visualStudio.csproj.AssemblyReference.cache
-C:\Users\user\Desktop\GetHup\برنامج مساعد المبرمج\visualStudio\visualStudio\obj\Debug\visualStudio.Form1.resources
-C:\Users\user\Desktop\GetHup\برنامج مساعد المبرمج\visualStudio\visualStudio\obj\Debug\visualStudio.frm_element.resources
-C:\Users\user\Desktop\GetHup\برنامج مساعد المبرمج\visualStudio\visualStudio\obj\Debug\visualStudio.frm_event.resources
-C:\Users\user\Desktop\GetHup\برنامج مساعد المبرمج\visualStudio\visualStudio\obj\Debug\visualStudio.frm_eventGroup.resources
-C:\Users\user\Desktop\GetHup\برنامج مساعد المبرمج\visualStudio\visualStudio\obj\Debug\visualStudio.frm_property.resources
-C:\Users\user\Desktop\GetHup\برنامج مساعد المبرمج\visualStudio\visualStudio\obj\Debug\visualStudio.frm_propertyGroup.resources
-C:\Users\user\Desktop\GetHup\برنامج مساعد المبرمج\visualStudio\visualStudio\obj\Debug\visualStudio.Properties.Resources.resources
-C:\Users\user\Desktop\GetHup\برنامج مساعد المبرمج\visualStudio\visualStudio\obj\Debug\visualStudio.csproj.GenerateResource.cache
-C:\Users\user\Desktop\GetHup\برنامج مساعد المبرمج\visualStudio\visualStudio\obj\Debug\visualStudio.csproj.CoreCompileInputs.cache
-C:\Users\user\Desktop\GetHup\برنامج مساعد المبرمج\visualStudio\visualStudio\obj\Debug\visualStudio.exe
-C:\Users\user\Desktop\GetHup\برنامج مساعد المبرمج\visualStudio\visualStudio\obj\Debug\visualStudio.pdb
