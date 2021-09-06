@@ -16,3 +16,21 @@ E:\ملفات هامة\مشاريع هامة\فيجوال ستوديو\visualStu
 E:\ملفات هامة\مشاريع هامة\فيجوال ستوديو\visualStudio\visualStudio\bin\Debug\frm_element.resx
 E:\ملفات هامة\مشاريع هامة\فيجوال ستوديو\visualStudio\visualStudio\bin\Debug\frm_element.cs
 E:\ملفات هامة\مشاريع هامة\فيجوال ستوديو\visualStudio\visualStudio\bin\Debug\frm_element.Designer.cs
+D:\programmer-assistant\برنامج مساعد المبرمج\visualStudio\visualStudio\obj\Debug\visualStudio.csproj.AssemblyReference.cache
+D:\programmer-assistant\برنامج مساعد المبرمج\visualStudio\visualStudio\obj\Debug\visualStudio.Form1.resources
+D:\programmer-assistant\برنامج مساعد المبرمج\visualStudio\visualStudio\obj\Debug\visualStudio.frm_element.resources
+D:\programmer-assistant\برنامج مساعد المبرمج\visualStudio\visualStudio\obj\Debug\visualStudio.frm_event.resources
+D:\programmer-assistant\برنامج مساعد المبرمج\visualStudio\visualStudio\obj\Debug\visualStudio.frm_eventGroup.resources
+D:\programmer-assistant\برنامج مساعد المبرمج\visualStudio\visualStudio\obj\Debug\visualStudio.frm_property.resources
+D:\programmer-assistant\برنامج مساعد المبرمج\visualStudio\visualStudio\obj\Debug\visualStudio.frm_propertyGroup.resources
+D:\programmer-assistant\برنامج مساعد المبرمج\visualStudio\visualStudio\obj\Debug\visualStudio.csproj.GenerateResource.cache
+D:\programmer-assistant\برنامج مساعد المبرمج\visualStudio\visualStudio\obj\Debug\visualStudio.exe
+D:\programmer-assistant\برنامج مساعد المبرمج\visualStudio\visualStudio\obj\Debug\visualStudio.pdb
+D:\programmer-assistant\برنامج مساعد المبرمج\visualStudio\visualStudio\bin\Debug\frm_element.resx
+D:\programmer-assistant\برنامج مساعد المبرمج\visualStudio\visualStudio\bin\Debug\frm_element.cs
+D:\programmer-assistant\برنامج مساعد المبرمج\visualStudio\visualStudio\bin\Debug\frm_element.Designer.cs
+D:\programmer-assistant\برنامج مساعد المبرمج\visualStudio\visualStudio\bin\Debug\visualStudio.exe.config
+D:\programmer-assistant\برنامج مساعد المبرمج\visualStudio\visualStudio\bin\Debug\visualStudio.exe
+D:\programmer-assistant\برنامج مساعد المبرمج\visualStudio\visualStudio\bin\Debug\visualStudio.pdb
+D:\programmer-assistant\برنامج مساعد المبرمج\visualStudio\visualStudio\obj\Debug\visualStudio.Properties.Resources.resources
+D:\programmer-assistant\برنامج مساعد المبرمج\visualStudio\visualStudio\obj\Debug\visualStudio.csproj.CoreCompileInputs.cache
